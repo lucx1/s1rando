@@ -1,6 +1,15 @@
+/* This part would set a lower bound to be the actual balloonist
+requirements. For sake of balance, I removed it for the meantime.
+Feel free to suggest viable solutions.
+
 var balloongems = [0, 1200, 1200, 1200, 6000];
 var balloondragons = [10, 10, 10, 50, 50];
 var ballooneggs = [0, 0, 5, 5, 5];
+
+*/
+var balloongems = [0, 0, 0, 0, 0];
+var balloondragons = [0, 0, 0, 0, 0];
+var ballooneggs = [0, 0, 0, 0, 0];
 var maxgems = [1000, 3000, 5500, 8000, 10500];
 var maxdragons = [16, 32, 46, 58, 74];
 var maxeggs = [2, 5, 12, 12, 12, 12];
